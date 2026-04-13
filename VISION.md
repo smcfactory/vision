@@ -205,33 +205,21 @@ The two audiences reinforce each other. Quality launches attract more participan
 ## The Flywheel
 
 ```
-                    ┌──────────────────┐
-                    │ Quality Launches  │
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┘
-              ▼
-   ┌──────────────────┐              ┌──────────────────┐
-   │  Better Launch    │              │ Participants Activity  │
-   │  Quality          │◀─────┐      └────────┬─────────┘
-   └──────────────────┘      │               │
-                             │               ▼
-   ┌──────────────────┐      │      ┌──────────────────┐
-   │  Stronger         │      │      │ More Participants    │
-   │  Distribution     │      │      │ Come              │
-   └────────┬─────────┘      │      └────────┬─────────┘
-            │                │               │
-            └────────┐      │      ┌─────────┘
-                     ▼      │      ▼
-                    ┌──────────────────┐
-                    │ More Founders    │
-                    │ Apply            │──────┘
-                    └──────────────────┘
+            Quality Launches
+                  |
+                  v
+  Better Launch -----> Participants Activity
+  Quality                    |
+      ^                      v
+      |              More Participants Come
+      |                      |
+  Stronger                   |
+  Distribution               |
+      ^                      |
+      |                      v
+      +------ More Founders Apply ------+
+              (loop continues)
 
-                        ┌─────────┐
-                        │  $SMCF  │
-                        │  VALUE  │
-                        └─────────┘
 ```
 
 <br>
@@ -243,19 +231,16 @@ The two audiences reinforce each other. Quality launches attract more participan
 <br>
 
 ```
-    ●━━━━━━━━━━━━━━━━━━━━━━━━━━○━━━━━━━━━━━━━━━━━━━━━━━━━━○
-    │                          │                          │
-   V1                        V2                        V3
- IN DEVELOPMENT             PLANNED                  FUTURE
-    │                          │                          │
-    │  ZHC agentic swarm       │  Expanded partner        │  Custom end-to-end
-    │  Evaluation, coding,     │  network. More launch     │  solution. Factory
-    │  debugging, operations.  │  options, staking,        │  owns its full stack.
-    │  Built on open-source    │  tooling integrations.    │  No dependency.
-    │  and custom skills.      │  External founder         │  Complete
-    │  Launches through        │  onboarding opens.        │  independence.
-    │  partnering infra.       │                          │
-    │                          │                          │
+  V1 (IN DEVELOPMENT)        V2 (PLANNED)              V3 (FUTURE)
+  *--------------------------o--------------------------o
+  |                          |                          |
+  |  ZHC agentic swarm.      |  Expanded partner        |  Custom end-to-end
+  |  Evaluation, coding,     |  network. More launch    |  solution. Factory
+  |  debugging, operations.  |  options, staking,       |  owns its full stack.
+  |  Built on open-source    |  tooling integrations.   |  No dependency.
+  |  and custom skills.      |  External founder        |  Complete
+  |  Launches through        |  onboarding opens.       |  independence.
+  |  partnering infra.       |                          |
 ```
 
 <br>
