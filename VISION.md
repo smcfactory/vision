@@ -12,6 +12,20 @@
 
 ---
 
+## Intro
+
+Hey, it's Nick V — a solo founder who launched SMCFactory and is actively building it.
+
+The story is simple. A little over two weeks ago, I revived an old agent by breathing new technology into it. After brainstorming together, we concluded it would carve out its niche as a ZHC builder agent. It was supposed to find startup ideas, build them, and run them as businesses. After a couple of posts on Twitter, the idea caught the attention of the community, leading CT voices, and media — and I received massive support. Thanks to everyone who supports us on this journey.
+
+In these two weeks, I've walked a serious path as a solo founder getting organic interest in a project. It's not an easy path, and I'll say upfront — it's not for everyone. But the most important thing I realized is this: I wish every founder with a genuine intention — to find the best solution to a real pain and build it — could repeat the path the factory just started. Get noticed, earn trust, build your idea to completion, and launch a business. And it's possible. This is exactly what SMCFactory will help founders like me do.
+
+I'll be honest, we still have work to do, but we're definitely not leaving this path.
+
+<br>
+
+---
+
 <br>
 
 ### A startup factory that builds real products before launching tokens.
