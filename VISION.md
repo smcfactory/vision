@@ -325,9 +325,6 @@ Over a third of all new startups are now solo-founded. The builder-who-is-not-a-
 </tr>
 </table>
 
-<br>
-
----
 
 ---
 
