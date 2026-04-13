@@ -205,20 +205,20 @@ The two audiences reinforce each other. Quality launches attract more participan
 ## The Flywheel
 
 ```
-  +---> Quality Launches
-  |          |
-  |          +---> Participants Activity
-  |                     |
-  |                     +---> More Participants Come
-  |                                |
-  |                                +---> More Founders Apply
-  |                                           |
-  |                                           +---> Stronger Distribution
-  |                                                       |
-  |                                                       +---> Better Launch Quality
-  |                                                                    |
-  +--------------------------------------------------------------------+
-                                 (loop continues)
+  +-> Quality Launches
+  |        |
+  |        +-> Participants Activity
+  |                 |
+  |                 +-> More Participants Come
+  |                          |
+  |                          +-> More Founders Apply
+  |                                    |
+  |                                    +-> Stronger Distribution
+  |                                              |
+  |                                              +-> Better Launch Quality
+  |                                                          |
+  +----------------------------------------------------------+
+                           (loop continues)
 
 ```
 
