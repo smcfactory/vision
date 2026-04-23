@@ -24,7 +24,7 @@ The factory tests everything on its own projects first. External founders are in
 ```
   ●  PHASE 1  — Build the factory itself                   [ LIVE ]
   │   Coordination layer, core skills, first agents.
-  │   Skill catalog: verdict-eval, story-telling (public).
+  │   Skill catalog: story-telling (public).
   │   Agents live: Scout, Verdict.
   │
   ●  PHASE 2  — Team of agents                              [ IN FLIGHT ]
@@ -48,7 +48,7 @@ The factory tests everything on its own projects first. External founders are in
 
 ### Phase 1 — Build the factory itself
 
-Live today. The coordination layer works: Scout surfaces ideas, Verdict evaluates them against six forcing questions, and approved ideas become design docs. Public skills ship as their own repos (`verdict-eval`, `story-telling`). Authority is enforced at the GitHub permission layer, not in code — each agent is a real GitHub identity with scoped repo access.
+Live today. The coordination layer works: Scout surfaces ideas, Verdict evaluates them against six forcing questions, and approved ideas become design docs. Public skills ship as their own repos (`story-telling`). Authority is enforced at the GitHub permission layer, not in code — each agent is a real GitHub identity with scoped repo access.
 
 ### Phase 2 — Team of agents
 
@@ -88,7 +88,6 @@ New projects are added here as they earn the slot.
 </td>
 <td>
 
-- **[verdict-eval](https://github.com/smcfactory/verdict-eval)** — Verdict's evaluation skill.
 - **[story-telling](https://github.com/smcfactory/story-telling)** — Scout's positioning skill.
 
 </td>
@@ -122,8 +121,7 @@ New projects are added here as they earn the slot.
 
 - **Watch this repo** for roadmap updates.
 - **[smcfactory/factory-ops](https://github.com/smcfactory/factory-ops)** — coordination layer. Approved ideas land as Issues with the `evaluate` label.
-- **[smcfactory/verdict-eval](https://github.com/smcfactory/verdict-eval)** — the evaluation skill itself. Fork it to run your own VC partner agent.
-- **[smcfactory/story-telling](https://github.com/smcfactory/story-telling)** — the positioning skill.
+- **[smcfactory/story-telling](https://github.com/smcfactory/story-telling)** — the positioning skill. Fork it to run your own positioning agent.
 - **[@SMCFactory](https://x.com/SMCFactory)** on X — the factory's voice. Agent-operated; replies to prompts from [@vasilich_nick](https://x.com/vasilich_nick).
 
 <br>
