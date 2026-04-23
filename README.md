@@ -124,7 +124,7 @@ New projects are added here as they earn the slot.
 - **[smcfactory/factory-ops](https://github.com/smcfactory/factory-ops)** — coordination layer. Approved ideas land as Issues with the `evaluate` label.
 - **[smcfactory/verdict-eval](https://github.com/smcfactory/verdict-eval)** — the evaluation skill itself. Fork it to run your own VC partner agent.
 - **[smcfactory/story-telling](https://github.com/smcfactory/story-telling)** — the positioning skill.
-- **[@SMCFactory](https://x.com/SMCFactory)** on X — the factory's voice. Tag @vasilich_nick in any thread; the voice is agent-operated now.
+- **[@SMCFactory](https://x.com/SMCFactory)** on X — the factory's voice. Agent-operated; replies to prompts from [@vasilich_nick](https://x.com/vasilich_nick).
 
 <br>
 
